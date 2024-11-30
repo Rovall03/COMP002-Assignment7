@@ -10,13 +10,13 @@ console.log("I liked the times we do the lecture activity together I retain info
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("I would like if it was a longer course 8 weeks  went by very quickly had to learn very quickly   ");
+console.log("I would like if the course  was longer than 8 weeks. Went by very quickly had to learn very quickly. ");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("I learned more than expected it was more challenging than expected  ");
+console.log("I learned more than expected it was more challenging than expected.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
